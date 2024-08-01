@@ -1,0 +1,14 @@
+#pdfInput {
+    display: none;
+}
+
+#pdfInput + label {
+    padding: 20px;
+    border: 2px dashed #ccc;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#pdfInput + label:hover {
+    background-color: #f7f7f7;
+}

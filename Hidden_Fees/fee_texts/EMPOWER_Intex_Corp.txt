@@ -1,0 +1,998 @@
+Empower Retirement
+Clarity in a Complex World:
+Plan Fee Disclosure for Plan Fiduciaries
+Fee Disclosure
+Intex Corp. 401(k) Profit Sharing Plan
+455373-01
+As of January 31, 2020
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 1 of 17Introduction
+This report will help you as plan fiduciaries better understand the costs associated with your retirement plan
+- for both you as a plan sponsor and for your plan participants. The report is designed to meet the ERISA fee
+disclosure regulations of the United States Department of Labor (DOL).
+We have summarized the plan cost components, and have provided a description of the services provided for
+those costs. We feel that the more you know about the costs in your plan - including all fees and expenses -
+the better you will understand the value of Empower Retirement.
+Fee transparency is a sponsor and participant right
+Sponsors and participants are entitled to clear information about the fees and expenses associated with their
+retirement plans.
+Fee transparency is integral to meeting fiduciary responsibilities
+We believe that understanding the relationship between cost and benefit is a crucial part of a plan sponsor's
+fiduciary responsibilities.
+ERISA Requirements
+DOL regulations require certain service providers that receive more than $1,000 in compensation to make
+explicit disclosures to certain retirement plans that they serve. For more information, please visit the DOL
+Employee Benefits Security Administration's website (www.dol.gov/ebsa).
+What This Report Contains
+This report provides an estimate of the fees paid by your plan.
+As your plan's Recordkeeper, we may make payments to other plan service providers on behalf of the plan.
+We are not responsible for the disclosures of any unrelated service providers.
+This document begins with a high-level summary of the estimated fees and becomes detailed throughout
+each section. All the information shown is in dollar figure estimates, where appropriate. To simplify readability,
+superscript letters identify dollar figures that carry over from one section and appear in another section as a
+line item.
+Some of the services and fees described may not be applicable to your plan but are representative of available
+services.
+Report Sections
+A. Summary of Fee and Expense Estimates
+B. Explanation of Services
+C. Estimated Cash Flow Summary
+D. Disclosures
+E. Itemized Services and Costs
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 2 of 17A. Summary of Fee and Expense Estimates
+Estimates presented are based on information as of January 31, 2020 on the following:
+Total Assets $17,136,850
+Unallocated Plan Assets $49,013
+Participant Assets $16,863,399
+Loan Balances $224,438
+Number of Participants 112
+As the fees and expenses contained in this disclosure are estimates based on the above information at a point
+in time, they will not necessarily match the actual amounts paid or the amounts contained in any financial
+report, such as an Annual Plan Summary.
+Total Assets are the sum of Unallocated Assets, Participant Assets and Loan Balances. Plan Unallocated
+Assets consist of plan assets that are not allocated to plan participants. This might include unclaimed
+participant balances, amounts received but not yet allocated to participants, forfeitures, and amounts set aside
+for plan expenses. Participant Assets are amounts held in participants’ accounts. Loan Balances equal
+the outstanding loan amounts for participants. Number of Participants includes participants with an account
+balance as of the month-end.
+In this document, estimates provided may not match amounts billed to the Plan Sponsor or debited from
+participant accounts and may not match financial reports. These annual estimates are generally based on
+month-end projections that are annualized over a 12-month period and rounded to the nearest dollar.
+ESTIMATED ESTIMATED
+ANNUAL
+CATEGORY OF SERVICE AVERAGE COST PERCENTAGE OF
+ESTIMATE
+PER PARTICIPANT TOTAL ASSETS
+Payments to Investment Providers (IP) (Q)$41,310 $369 0.24%
+Payments to Recordkeeper (RK) (X)($31,363) ($280) -0.18%
+Payments to Others (Z)$66,780 $596 0.39%
+Total Estimate (K)$76,727 $685 0.45%
+Estimated Total after credit to Plan Expense $10,447 $93 0.06%
+Account
+Superscript letters in parentheses (x) denote the flow of fee totals throughout this document.
+Great-West Trust Company, LLC (Great-West) and its affiliates do not provide fiduciary services, except in the case(s) where the
+fiduciary status is specifically and affirmatively disclosed below.
+If Great-West Life & Annuity Insurance Company or an affiliate provides participant investment advice services or agrees to provide
+certain administrative services in a fiduciary capacity to the Plan under the Administrative Services Agreement, it is a fiduciary with
+respect to such services.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 3 of 17CATEGORY OF SERVICE	ANNUAL
+ESTIMATE	ESTIMATED
+AVERAGE COST
+PER PARTICIPANT	ESTIMATED
+PERCENTAGE OF
+TOTAL ASSETS
+Payments to Investment Providers (IP)	(Q)$41,310	$369	0.24%
+Payments to Recordkeeper (RK)	(X)($31,363)	($280)	-0.18%
+Payments to Others	(Z)$66,780	$596	0.39%
+Total Estimate	(K)$76,727	$685	0.45%
+Estimated Total after credit to Plan Expense
+Account	$10,447	$93	0.06%B. Explanation of Services
+The services reflected may not be applicable to all plans, but are representative of available services.
+SERVICE
+Investment Providers (IP)
+CODE
+1.1 Investment Management Services: Includes all Plan investments selected by Plan Sponsor for which the
+Recordkeeper provides recordkeeping services.
+SERVICE
+Recordkeeper (RK)
+CODE
+2.1 Plan Services: Performing the duties necessary for the plan to comply with legal, regulatory and the plan's
+own requirements. Some of these duties include plan document service, compliance service and distribution
+tax reporting. Plan services would also include plan communication, education, enrollment, website and
+voice response system.
+2.2 Participant Services: Creating and maintaining records of all participant and beneficiary accounts and the
+transactions and changes affecting them. This may include participant loan initiation, loan maintenance, fund
+transfers, distributions or hardship withdrawals. Participant services would include communications to the
+participant - quarterly statements and newsletters.
+2.3 Additional Services: These plan level transactional services are available to the Plan Sponsor and can be
+requested in writing to the Recordkeeper.
+SERVICE
+Others
+CODE
+3.1 Trustee and Custodial Services: Services include the holding of plan assets pursuant to a trust or custodial
+agreement.
+3.2 Plan Expense Account / Participant Revenue Credit: Includes revenue sharing paid back to the Plan's
+account and other allocations paid back to the plan to lower plan fees/expense.
+For a listing of your Plan services please refer to your Service Agreement and/or Schedule of Services.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 4 of 17	
+SERVICE
+CODE	Investment Providers (IP)
+1.1	Investment Management Services: Includes all Plan investments selected by Plan Sponsor for which the
+Recordkeeper provides recordkeeping services.
+SERVICE
+CODE	Recordkeeper (RK)
+2.1	Plan Services: Performing the duties necessary for the plan to comply with legal, regulatory and the plan's
+own requirements. Some of these duties include plan document service, compliance service and distribution
+tax reporting. Plan services would also include plan communication, education, enrollment, website and
+voice response system.
+2.2	Participant Services: Creating and maintaining records of all participant and beneficiary accounts and the
+transactions and changes affecting them. This may include participant loan initiation, loan maintenance, fund
+transfers, distributions or hardship withdrawals. Participant services would include communications to the
+participant - quarterly statements and newsletters.
+2.3	Additional Services: These plan level transactional services are available to the Plan Sponsor and can be
+requested in writing to the Recordkeeper.
+SERVICE
+CODE	Others
+3.1	Trustee and Custodial Services: Services include the holding of plan assets pursuant to a trust or custodial
+agreement.
+3.2	Plan Expense Account / Participant Revenue Credit: Includes revenue sharing paid back to the Plan's
+account and other allocations paid back to the plan to lower plan fees/expense.C. Estimated Cash Flow Summary
+This section lists each investment manager and service provider that collects fees directly or indirectly from
+your Retirement Plan, from participants or from the employer, and all remittances paid out on behalf of your
+Plan.
+Payments to Investment Providers (IP)
+ESTIMATED ESTIMATED
+SERVICE ESTIMATED PAYMENTS
+INVESTMENT PROVIDER GROSS PAYMENTS NET PAYMENTS
+CODE FROM IP
+TO IP TO IP
+1.1 American Funds $6,325 ($1,786) $4,539
+Columbia $704 ($352) $352
+Dimensional Fund Advisors $654 ($0) $654
+Dodge & Cox $923 ($177) $746
+Great-West Funds $4,057 ($0) $4,057
+Great-West General Account $28,275 ($20,197) $8,078
+Hartford Mutual Funds $9,684 ($6,130) $3,554
+Janus Henderson $8,386 ($2,395) $5,991
+Legg Mason $7,932 ($1,566) $6,366
+Lord Abbett $2,313 ($784) $1,529
+Natixis Funds $1,635 ($681) $954
+Putnam $0 ($0) $0
+Vanguard $1,152 ($0) $1,152
+Wells Fargo Funds $3,834 ($496) $3,338
+Total Estimate $75,874 (V)($34,564) (Q)$41,310
+Payments to Recordkeeper (RK)
+ESTIMATED DIRECT ESTIMATED PAYMENTS ESTIMATED
+SERVICE
+SERVICE PROVIDED PAYMENTS TO RK FROM IP TO RK PAYMENTS TO RK
+CODE
+[A] [B] [A + B =C]
+2.1 Plan Services (Y)$122 (V)$34,564 $34,686
+2.2 Participant Services (W)$406 $406
+2.3 Additional Services $325 $325
+Payments to Others (Z)($66,780)
+Total Estimate (X)($31,363)
+Payments to Others
+SERVICE
+SERVICE PROVIDED ESTIMATED NET PAYMENTS TO OTHERS
+CODE
+3.1 Trustee and Custodial Services $500
+3.2 Plan Expense Account / Participant Revenue Credit $66,280
+Total Estimate (Z)$66,780
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 5 of 17SERVICE
+CODE	INVESTMENT PROVIDER	ESTIMATED
+GROSS PAYMENTS
+TO IP	ESTIMATED PAYMENTS
+FROM IP	ESTIMATED
+NET PAYMENTS
+TO IP
+1.1	American Funds	$6,325	($1,786)	$4,539
+	Columbia	$704	($352)	$352
+	Dimensional Fund Advisors	$654	($0)	$654
+	Dodge & Cox	$923	($177)	$746
+	Great-West Funds	$4,057	($0)	$4,057
+	Great-West General Account	$28,275	($20,197)	$8,078
+	Hartford Mutual Funds	$9,684	($6,130)	$3,554
+	Janus Henderson	$8,386	($2,395)	$5,991
+	Legg Mason	$7,932	($1,566)	$6,366
+	Lord Abbett	$2,313	($784)	$1,529
+	Natixis Funds	$1,635	($681)	$954
+	Putnam	$0	($0)	$0
+	Vanguard	$1,152	($0)	$1,152
+	Wells Fargo Funds	$3,834	($496)	$3,338
+Total Estimate		$75,874	(V)($34,564)	(Q)$41,310SERVICE
+CODE	SERVICE PROVIDED	ESTIMATED DIRECT
+PAYMENTS TO RK	ESTIMATED PAYMENTS
+FROM IP TO RK	ESTIMATED
+PAYMENTS TO RK
+		[A]	[B]	[A + B =C]
+2.1	Plan Services	(Y)$122	(V)$34,564	$34,686
+2.2	Participant Services	(W)$406		$406
+2.3	Additional Services	$325		$325
+Payments to Others				(Z)($66,780)
+Total Estimate				(X)($31,363)SERVICE
+CODE	SERVICE PROVIDED	ESTIMATED NET PAYMENTS TO OTHERS
+3.1	Trustee and Custodial Services	$500
+3.2	Plan Expense Account / Participant Revenue Credit	$66,280
+Total Estimate (Z)$66,780		Note: This section may include amounts that are not paid to or by the Recordkeeper, but paid to
+another party through the recordkeeping system.
+Total Annual Net Cost Estimate (K)$76,727
+Superscript letters in parentheses (x) denote the flow of fee totals throughout this document.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 6 of 17D. Disclosures
+This document contains estimates of plan expenses and is intended to provide a detailed summary of
+fees being charged to the plan or its participants to the extent such information is in the Recordkeeper’s
+possession. While it is intended to provide information regarding all material fees, this document may not be
+comprehensive, and it may not include full information on fees associated with some specially negotiated
+services or with certain investment options, such as Self-Directed Brokerage Accounts, Life Insurance,
+Employer Stock, etc. For further fee information, please refer to the relevant service agreements and/or
+prospectuses, including information that may be needed to comply with Participant Disclosure obligations.
+As your Recordkeeper, we make no representation as to the completeness or accuracy of materials, such as
+prospectuses, created and/or provided by a third-party investment provider.
+Gain/Loss Disclosure:
+If the Recordkeeper makes an error that results in an investment transaction gain or loss, and it is brought
+to the Recordkeeper’s attention within ninety (90) days after the participant statement date following the
+occurrence of the error, the Recordkeeper will retroactively correct the error by putting the participant back
+in the financial position where the participant would have been had the error not occurred. However, if the
+Plan or affected participant knew or should have known of the error but failed to bring it to the Recordkeeper’s
+attention within ninety (90) days after the statement date following the occurrence of the error, the error will be
+corrected prospectively. If a correction is made at the Recordkeeper’s expense and results in a net loss, the
+Recordkeeper will bear the loss. However, if the correction results in an unintended net gain, the Recordkeeper
+will retain the gain as compensation for services provided to the plan and to defray reasonable expenses of the
+plan including offsetting net losses as described above.
+Under special circumstances, the Recordkeeper may consider an exception to the above and make a
+correction at the Recordkeeper’s expense. If Plan Sponsor requests such an exception based on the
+circumstances identified, a correction will not be unreasonably denied, based on industry standards.
+In no event will the Recordkeeper be responsible for the expense of retroactive correction caused by an
+error or miscommunication committed by a participant, Plan Sponsor, or other third party. In such case, Plan
+Sponsor will instruct the Recordkeeper how it wishes any resulting gain to be allocated or loss to be funded.
+Bank Credit Disclosure:
+If the Plan’s assets pass through a bank account held by Great-West Trust Company, LLC (Great-West) or
+its affiliates/subsidiaries (Great-West Trust Company LLC), it may earn credits and/or interest on Plan assets
+awaiting investment or pending distribution. Any credits or interest earned by Great-West are aggregated with
+credits and/or interest earned by Great-West affiliates/subsidiaries and will be used to defray the aggregate
+expenses for the maintenance of bank accounts. Great-West will not retain credits and/or interest earned in
+excess of such maintenance expenses.
+Credits and/or interest are earned from the use of (i) uninvested contributions received too late in the day or
+not received in good order to be invested same-day and (ii) proceeds from investment option redemptions
+where Plan distribution checks have not been presented for payment by Plan participants. Credits and/or
+interest (i) begin to accrue on contributions, on the date such amounts are deposited into the bank account
+and end on the date such amounts are invested pursuant to Plan participant or Plan representative instructions
+and (ii) begin to accrue on distributions, on the date the check is written or on the wire date, as applicable and
+end on the date the check is presented for payment or when the wire clears again the account, as applicable.
+Earnings of credits and/or interest are at the rate the bank provides from time to time.
+Empower Student Debt Solution – Student Loan Assessment and Refinancing:
+Empower has partnered with CommonBond, Inc. to provide a student loan refinancing service for employees.
+Empower receives a referral fee from CommonBond up to $500 for each loan refinanced through the Empower
+Student Debt Solution platform with CommonBond.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 7 of 17Empower Student Debt Solution – Contribution Service Directly to Student Debt:
+Empower charges a per-user fee to the Plan Sponsor for each employee who enrolls on the Empower Student
+Debt platform. The quarterly fee ranges from $0 to $14. A minimum quarterly per-user fee will be charged
+where the total per-user fees for the applicable calendar quarter are not in excess of the minimum quarterly
+fee. The minimum quarterly fee ranges from $0 to $625. To facilitate the data and service integration, Empower
+retains 25% of fees. The remaining portion is paid by Empower to CommonBond, Inc. for services they provide
+for the Contribution Service. A service setup fee may also apply for termination of the service, please refer to
+your fee schedule for more information.
+Empower Student Debt Solution – Contribution Service to Retirement Plan:
+Empower charges a per-user fee to the Plan Sponsor or directly to the participant's account for each
+participant who enrolls on the Empower Student Debt platform. The quarterly per-user fee ranges from $0 to
+$14. A minimum quarterly per-user fee will be charged where the total per-user fees for the applicable calendar
+quarter are not in excess of the minimum quarterly fee. The minimum quarterly fee ranges from $0 to $625.
+To facilitate the data and service integration, Empower retains 50% of fees. The remaining portion is paid by
+Empower to CommonBond, Inc. for services they provide for the Contribution Service. A service setup fee may
+also apply for termination of the service, please refer to your fee schedule for more information.
+Investments
+Mutual Fund Expense Ratio & Collective Investment Trust (CIT) Expense:
+The Service Provider has entered into agreements with certain mutual funds/CITs (or their service providers,
+including advisors, administrators or transfer agents, and underwriters) whereby the Service Provider provides
+shareholder and/or distribution services and receives compensation from the mutual fund/CIT (or their service
+providers) based on the value of the plan's investment in the fund/CIT. This compensation may include fees
+for administrative and other expenses and/or fees paid under a plan of distribution under SEC Rule 12b-1
+("12b-1 fees"). The fees received by the Service Provider are included in the expense ratio described in the
+applicable fund’s prospectus or similar disclosure document, and reduce the investment option’s net asset
+value (NAV). Generally, fees and expenses included in the expense ratio are deducted at regular intervals
+based on a percentage of the investment option’s average daily net assets. For CITs, an investment company
+may include other fees that are not disclosed in this fee disclosure document but are provided in a separate
+disclosure under separate cover.
+Redemption Fees:
+Redemption fees are charged by mutual fund companies to discourage investors from making a short-term
+“round trip” (i.e. a purchase, typically a transfer, followed by a sale within a short period of time). Most mutual
+fund companies that charge redemption fees will impose the fee upon the purchase and subsequent sale
+occurring within a specified time frame. Please refer to your mutual fund prospectuses for specific redemption
+fee details.
+Additional Fund Compensation:
+The Service Provider may receive additional revenue as a finder’s fee from non-affiliated fund companies as
+shown in the prospectus and other regulatory documents for each of the funds held by the plan.
+Great-West Life & Annuity Insurance Company (Great-West) receives payments from some investment fund
+families through the Empowering Fund Partnership Program ("EFPP"). Under the EFPP, fund families receive
+several services based on the EFPP tier in which they participate. These services are provided directly to fund
+families and include: (i) consideration for inclusion in Empower products developed for some segments of the
+retirement and IRA market, (ii) inclusion on the Empower Select investment platform, which is available in the
+small plan recordkeeping market, (iii) a waiver of the connectivity fee described below, (iv) enhanced marketing
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 8 of 17opportunities, (v) additional reporting capabilities, (vi) collaboration in thought leadership opportunities, (vii)
+access to meetings with Empower leadership, Empower staff, and the third party advisory and brokerage firms
+through whom Empower distributes its services, and (viii) access to conferences put on by Empower and
+Great-West. The yearly fees for EFPP participation are $1,000,000 for tier 1, $500,000 for tier 2, and $250,000
+for tier 3. These fees do not vary based on an Empower client's use of the funds offered by the fund family.
+For additional information about fund families that participate in the fund partner program, please visit https://
+docs.empower-retirement.com/advisor/Empowering-Fund-Partnership-Disclosure.pdf.
+Great-West also receives payments from fund families through a connectivity program (the "Connectivity
+Program"). The Connectivity Program charges fund families for the cost of administering funds on Empower
+investment platforms, and for building and maintaining data connections between Empower and the fund
+family. In 2019, the Connectivity Program charges $1,000 per investment fund used on recordkeeping and
+IRA investment platforms. Beginning in May 2019, if a retirement plan starts receiving recordkeeping services
+through Empower's small plan recordkeeping segment, and the plan has a fund from a fund family that
+does not participate in the Connectivity Program or the EFPP, then Empower will assess a separate annual
+investment access fee of $1,000 to the plan. Depending on plan selection of the non-participating fund family,
+the investment access fee charge may be more or less than the fees received under the Connectivity Program
+from the fund family.
+For additional information about funds that participate in the Connectivity Program, please visit https://
+docs.empower-retirement.com/advisor/Empowering-Fund-Partnership-Disclosure.pdf.
+Rollover Programs:
+Great-West may receive payments of up to $25 per rollover under separate agreements with certain rollover
+providers (including Millennium Trust Company and WMSI Securities LLC) for providing transaction and
+administrative services. Any such payments are not fees for distribution services to the plan under the plan's
+administrative services agreement with Great-West.
+General Account Fund and Guarantee Provisions:
+General Account crediting rates are net of cost of capital and expenses, fund and guarantee provisions and
+any contract series charge, to the extent applicable.
+Cost of Capital is the return Great-West Trust Company, LLC (Great-West) earns on Great-West capital.
+Great-West is required by regulators to hold capital for the purpose of ensuring Great-West can meet all of
+its obligations associated with the General Account Fund. The amount of Great-West's capital and required
+return will fluctuate over time based on regulatory requirements, capital market conditions and the competitive
+environment.
+The Fund Provision covers the range of investment expenses that are netted from the crediting rate, such as
+investment and operating expenses. The Fund Provision is calculated annually in aggregate for all General
+Account fixed funds offered by Great-West and does not reflect any product or plan specific underwriting
+adjustments.
+The Guarantee Provision covers the range of insurance expenses that are netted from the crediting rate, such
+as asset defaults, cost of insurance guarantees, and other expenses. The Guarantee Provision is calculated
+annually in aggregate for all General Account fixed funds offered by Great-West and does not reflect any
+product or plan specific underwriting adjustments.
+A Contract Series Charge may apply to the general account option selected by the plan sponsor. This charge
+will be explicitly described in the Great-West Investments Fixed Account group annuity contract and is meant
+to cover expenses related to contract administration, investment management and other services that are
+provided to the plan pursuant to a separate agreement with the plan. There may be an adjustment to the
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 9 of 17credited interest rate which is used to reduce the amount for plan recordkeeping/administration services that
+would otherwise be charged to the plan.
+For more information on the General Account Fixed Funds, including termination options, please see your
+Group Annuity Contract.
+Recordkeeping Costs Estimate:
+Great-West recordkeeping fees are agreed to with the plan sponsor based on the total value of the relationship
+with the plan. Great-West may provide recordkeeping fee credits in its sole discretion based on criteria as
+solely determined by Great-West which may include the plan's use of affiliated and non-affiliated funds or
+products. Such credits may reduce some or all of the recordkeeping fees that would otherwise be charged by
+Great-West. The average cost of Great-West recordkeeping services without any reduction or offset is $106.00
+per participant for plans less than $50 million, $103.19 per participant for plans between $50m and $500m and
+$58.97 per participant for plans greater than $500m.
+5500 Schedule C
+As applicable, the disclosures herein are intended to satisfy the eligible indirect compensation (“EIC”)
+requirements for Form 5500 Schedule C purposes.
+Direct Compensation:
+As your Recordkeeper, Empower Retirement tracks and reports all direct fee compensation (such as the
+standard fees and non-standard fees that are paid from plan assets during the plan year) as part of the
+plan-level reporting in your Annual Plan Summary. A detailed list of direct fees are provided in the Fee and
+Withdrawal report as well as summarized in the supplemental report section containing the Information for
+Completing Form 5500 Schedule C.
+Indirect Compensation:
+The listed expenses and costs are the types of eligible indirect compensation that may have been received
+either by (i) the Recordkeeper for their services or (ii) mutual fund companies whose funds are investment
+options in your Plan. The disclosures herein are intended to satisfy the EIC requirements for Form 5500
+Schedule C purposes, as applicable.
+Other Investment-Related Fees:
+The investment funds offered by your Plan may have fees that are retained by the fund company or other
+investment provider as payment for ongoing management of the fund and other services. The fee amounts will
+vary from fund to fund and are generally charged as a percentage of the fund’s value.
+Please refer to the latest investment materials such as prospectuses and other regulatory disclosures for
+each of the funds held by your Plan (as provided by your Plan’s investment advisor or directly from the fund
+companies or investment firms) for details regarding services and fees.
+The latest prospectus and other regulatory documents for each of the funds held by the plan can be found
+within the Investment section of the Plan Service Center.
+This list of investment fees is intended to give the plan a list of the most important fees being charged to
+the plan or its participants. It is intended to provide information regarding all material fees, but may not be
+comprehensive and may not include information on fees such as Self Directed Brokerage Accounts, Life
+Insurance, Employer Stock, etc. For other fee information, please refer to all other plan documents including
+service agreement and/or prospectus, including information that may be needed to comply with participant
+Disclosure obligations. As your Recordkeeper, we make no representation as to the completeness or accuracy
+of materials, such as prospectuses, created and/or provided by a third-party investment provider.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 10 of 17Affiliates and Subcontractors
+We are required to disclose certain fees paid between Great-West Trust Company, LLC (Great-West) and its
+related parties (affiliates/subsidiaries and subcontractors). This includes compensation paid in connection with
+the services Great-West or its affiliates/subsidiaries have agreed to provide to the plan, if the compensation is
+set on a transaction/incentive basis (such as commissions, soft dollars, or finder’s fees) or if the compensation
+is charged directly against a plan investment and reflected in the investment’s net value.
+The fees disclosed are not in addition to previously disclosed fees; rather, this information is intended to
+increase transparency about how Great-West uses the fees it receives.
+Affiliates:
+The following entities are affiliates of the Recordkeeper, in that they directly or indirectly control, are controlled
+by, or are under common control with the Recordkeeper. These affiliates may receive fees from the plan, or
+from the Recordkeeper or another affiliate for performing certain services for the plan.
+Refer to the Itemized Services and Cost section for details regarding affiliate payments.
+GWFS Equities, Inc. is an affiliate that receives payments from the Investment Provider. Payments are first
+paid to GWFS Equities, Inc. which in turn pays the Recordkeeper.
+Great-West Capital Management, LLC is an affiliate that receives payments from the Investment Provider.
+Great-West Funds, Inc. is an affiliate that receives payments from the Investment Provider.
+Affiliates: The following are affiliates or subsidiaries of Great-West Trust Company, LLC (Great-West), but not
+all Great-West affiliates or subsidiaries may pertain to your Plan.
+n Advised Assets Group, LLC
+n GWFS Equities, Inc.
+n FASCore, LLC
+n Great-West Capital Management, LLC
+n Great-West Funds, Inc.
+n Putnam Investment Company
+n Great-West Trust Company, LLC
+n Great-West Life & Annuity Insurance Company of New York
+Subcontractors:
+A subcontractor is any person or entity that is not an affiliate of Great-West, which is expected to receive
+$1,000 or more in compensation for performing one or more services for the plan under a contract or
+arrangement with Great-West.
+COMPANY SUBCONTRACTOR PROVIDED SERVICE
+None
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 11 of 17COMPANY SUBCONTRACTOR	PROVIDED SERVICE
+None	E. Itemized Services and Costs
+This section details how each service expense is calculated. Totals here are presented in the Summary of Fee
+and Expense Estimates section. Estimates presented are based on expenditures and activity in the 12 month
+period ending January 31, 2020 and on the following:
+Total Assets $17,136,850
+Unallocated Plan Assets $49,013
+Participant Assets $16,863,399
+Loan Balances $224,438
+Number of Participants 112
+The annual estimates displayed in this document will not match actual financial reports such as the Annual
+Plan Summary.
+Payments to Investment Providers (IP)
+SERVICE CODE 1.1
+ESTIMATED
+ESTIMATED ESTIMATED
+GROSS
+GROSS/ PAYMENTS NET
+PAYMENTS
+BASIS FOR NET FROM IP PAYMENTS
+INVESTMENT TO IP 12B-1 ADMIN
+ESTIMATE EXPENSE
+[(12b1 X
+RATIO
+[estimate X net estimate)+ [gross pmts-
+expense ratio] (Admin X pmts from IP]
+estimate)]
+American Funds
+American Funds 2010 $572 Assets in 0.31%/ $2 ($0) $2
+Trgt Date Retire R6 fund 0.31%
+American Funds 2015 $146,732 0.31%/ $455 ($0) $455
+Trgt Date Retire R6 Assets in fund 0.31%
+American Funds 2020 $532 Assets in 0.31%/ $2 ($0) $2
+Trgt Date Retire R6 fund 0.31%
+American Funds 2025 $146,637 0.33%/ $484 ($0) $484
+Trgt Date Retire R6 Assets in fund 0.33%
+American Funds 2030 $25,627 Assets 0.35%/ $90 ($0) $90
+Trgt Date Retire R6 in fund 0.35%
+American Funds 2035 $22,235 Assets 0.37%/ $82 ($0) $82
+Trgt Date Retire R6 in fund 0.37%
+American Funds 2040 $112,317 0.38%/ $427 ($0) $427
+Trgt Date Retire R6 Assets in fund 0.38%
+American Funds 2045 $34,669 Assets 0.38%/ $132 ($0) $132
+Trgt Date Retire R6 in fund 0.38%
+American Funds 2050 $21,586 Assets 0.39%/ $84 ($0) $84
+Trgt Date Retire R6 in fund 0.39%
+American Funds 2055 $45,338 Assets 0.40%/ $181 ($0) $181
+Trgt Date Retire R6 in fund 0.40%
+American Funds 2060 $24,353 Assets 0.41%/ $100 ($0) $100
+Trgt Date Retire R6 in fund 0.41%
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 12 of 17SERVICE CODE 1.1							
+INVESTMENT	BASIS FOR
+ESTIMATE	GROSS/
+NET
+EXPENSE
+RATIO	ESTIMATED
+GROSS
+PAYMENTS
+TO IP	12B-1	ADMIN	ESTIMATED
+PAYMENTS
+FROM IP	ESTIMATED
+NET
+PAYMENTS
+			[estimate X net
+expense ratio]			[(12b1 X
+estimate)+
+(Admin X
+estimate)]	[gross pmts-
+pmts from IP]
+American Funds							
+American Funds 2010
+Trgt Date Retire R6	$572 Assets in
+fund	0.31%/
+0.31%	$2			($0)	$2
+American Funds 2015
+Trgt Date Retire R6	$146,732
+Assets in fund	0.31%/
+0.31%	$455			($0)	$455
+American Funds 2020
+Trgt Date Retire R6	$532 Assets in
+fund	0.31%/
+0.31%	$2			($0)	$2
+American Funds 2025
+Trgt Date Retire R6	$146,637
+Assets in fund	0.33%/
+0.33%	$484			($0)	$484
+American Funds 2030
+Trgt Date Retire R6	$25,627 Assets
+in fund	0.35%/
+0.35%	$90			($0)	$90
+American Funds 2035
+Trgt Date Retire R6	$22,235 Assets
+in fund	0.37%/
+0.37%	$82			($0)	$82
+American Funds 2040
+Trgt Date Retire R6	$112,317
+Assets in fund	0.38%/
+0.38%	$427			($0)	$427
+American Funds 2045
+Trgt Date Retire R6	$34,669 Assets
+in fund	0.38%/
+0.38%	$132			($0)	$132
+American Funds 2050
+Trgt Date Retire R6	$21,586 Assets
+in fund	0.39%/
+0.39%	$84			($0)	$84
+American Funds 2055
+Trgt Date Retire R6	$45,338 Assets
+in fund	0.40%/
+0.40%	$181			($0)	$181
+American Funds 2060
+Trgt Date Retire R6	$24,353 Assets
+in fund	0.41%/
+0.41%	$100			($0)	$100ESTIMATED
+ESTIMATED ESTIMATED
+GROSS
+GROSS/ PAYMENTS NET
+PAYMENTS
+BASIS FOR NET FROM IP PAYMENTS
+INVESTMENT TO IP 12B-1 ADMIN
+ESTIMATE EXPENSE
+[(12b1 X
+RATIO
+[estimate X net estimate)+ [gross pmts-
+expense ratio] (Admin X pmts from IP]
+estimate)]
+American Funds $510,226 0.84%/ $4,286 0.25% 0.10% ($1,786) $2,500
+EuroPacific Gr R4 Assets in fund 0.84%
+American Funds $0 Assets in 0.65%/ $0 ($0) $0
+Fundamental Investors fund 0.65%
+R4
+Total for American $1,090,824 $6,325 ($1,786) $4,539
+Funds
+Columbia
+Columbia Mid Cap Index $352,246 0.33%/ $704 0.10% ($352) $352
+Instl Assets in fund 0.20%
+Total for Columbia $352,246 $704 ($352) $352
+Dimensional Fund Advisors
+DFA Emerging Markets $125,785 0.52%/ $654 ($0) $654
+Core Equity I Assets in fund 0.52%
+Total for Dimensional $125,785 $654 ($0) $654
+Fund Advisors
+Dodge & Cox
+Dodge & Cox Stock $177,472 0.52%/ $923 0.10% ($177) $746
+Assets in fund 0.52%
+Total for Dodge & Cox $177,472 $923 ($177) $746
+Great-West Funds
+Great-West Mid Cap $454,430 0.81%/ $3,635 ($0) $3,635
+Value Instl Assets in fund 0.80%
+Great-West T. Rowe $63,020 Assets 0.67%/ $422 ($0) $422
+Price Mid Cap Gr Inst in fund 0.67%
+Total for Great-West $517,450 $4,057 ($0) $4,057
+Funds
+Hartford Mutual Funds
+Hartford Core Equity R4 $1,225,842 0.79%/ $9,684 0.25% 0.25% ($6,130) $3,554
+Assets in fund 0.79%
+Total for Hartford $1,225,842 $9,684 ($6,130) $3,554
+Mutual Funds
+Janus Henderson
+Janus Henderson $418,145 0.83%/ $3,471 0.25% ($1,045) $2,426
+Balanced T Assets in fund 0.83%
+Janus Henderson Triton $540,138 0.91%/ $4,915 0.25% ($1,350) $3,565
+T Assets in fund 0.91%
+Total for Janus $958,283 $8,386 ($2,395) $5,991
+Henderson
+Legg Mason
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 13 of 17INVESTMENT	BASIS FOR
+ESTIMATE	GROSS/
+NET
+EXPENSE
+RATIO	ESTIMATED
+GROSS
+PAYMENTS
+TO IP	12B-1	ADMIN	ESTIMATED
+PAYMENTS
+FROM IP	ESTIMATED
+NET
+PAYMENTS
+			[estimate X net
+expense ratio]			[(12b1 X
+estimate)+
+(Admin X
+estimate)]	[gross pmts-
+pmts from IP]
+American Funds
+EuroPacific Gr R4	$510,226
+Assets in fund	0.84%/
+0.84%	$4,286	0.25%	0.10%	($1,786)	$2,500
+American Funds
+Fundamental Investors
+R4	$0 Assets in
+fund	0.65%/
+0.65%	$0			($0)	$0
+Total for American
+Funds	$1,090,824		$6,325			($1,786)	$4,539
+Columbia							
+Columbia Mid Cap Index
+Instl	$352,246
+Assets in fund	0.33%/
+0.20%	$704		0.10%	($352)	$352
+Total for Columbia	$352,246		$704			($352)	$352
+Dimensional Fund Advisors							
+DFA Emerging Markets
+Core Equity I	$125,785
+Assets in fund	0.52%/
+0.52%	$654			($0)	$654
+Total for Dimensional
+Fund Advisors	$125,785		$654			($0)	$654
+Dodge & Cox							
+Dodge & Cox Stock	$177,472
+Assets in fund	0.52%/
+0.52%	$923		0.10%	($177)	$746
+Total for Dodge & Cox	$177,472		$923			($177)	$746
+Great-West Funds							
+Great-West Mid Cap
+Value Instl	$454,430
+Assets in fund	0.81%/
+0.80%	$3,635			($0)	$3,635
+Great-West T. Rowe
+Price Mid Cap Gr Inst	$63,020 Assets
+in fund	0.67%/
+0.67%	$422			($0)	$422
+Total for Great-West
+Funds	$517,450		$4,057			($0)	$4,057
+Hartford Mutual Funds							
+Hartford Core Equity R4	$1,225,842
+Assets in fund	0.79%/
+0.79%	$9,684	0.25%	0.25%	($6,130)	$3,554
+Total for Hartford
+Mutual Funds	$1,225,842		$9,684			($6,130)	$3,554
+Janus Henderson							
+Janus Henderson
+Balanced T	$418,145
+Assets in fund	0.83%/
+0.83%	$3,471		0.25%	($1,045)	$2,426
+Janus Henderson Triton
+T	$540,138
+Assets in fund	0.91%/
+0.91%	$4,915		0.25%	($1,350)	$3,565
+Total for Janus
+Henderson	$958,283		$8,386			($2,395)	$5,991
+Legg Mason							ESTIMATED
+ESTIMATED ESTIMATED
+GROSS
+GROSS/ PAYMENTS NET
+PAYMENTS
+BASIS FOR NET FROM IP PAYMENTS
+INVESTMENT TO IP 12B-1 ADMIN
+ESTIMATE EXPENSE
+[(12b1 X
+RATIO
+[estimate X net estimate)+ [gross pmts-
+expense ratio] (Admin X pmts from IP]
+estimate)]
+ClearBridge Large Cap $1,043,735 0.76%/ $7,932 0.15% ($1,566) $6,366
+Growth I Assets in fund 0.76%
+Total for Legg Mason $1,043,735 $7,932 ($1,566) $6,366
+Lord Abbett
+Lord Abbett Floating Rate $392,088 0.59%/ $2,313 0.20% ($784) $1,529
+R5 Assets in fund 0.59%
+Total for Lord Abbett $392,088 $2,313 ($784) $1,529
+Natixis Funds
+Loomis Sayles Core Plus $340,698 0.48%/ $1,635 0.20% ($681) $954
+Bond Y Assets in fund 0.48%
+Total for Natixis Funds $340,698 $1,635 ($681) $954
+Putnam
+Putnam Growth $0 Assets in 0.78%/ $0 ($0) $0
+Opportunities Y fund 0.78%
+Total for Putnam $0 $0 ($0) $0
+Vanguard
+Vanguard 500 Index $1,709,716 0.04%/ $684 ($0) $684
+Admiral Assets in fund 0.04%
+Vanguard Real Estate $261,521 0.12%/ $314 ($0) $314
+Index Admiral Assets in fund 0.12%
+Vanguard Small Cap $307,660 0.05%/ $154 ($0) $154
+Index Adm Assets in fund 0.05%
+Total for Vanguard $2,278,897 $1,152 ($0) $1,152
+Wells Fargo Funds
+Wells Fargo Global Small $330,486 1.22%/ $3,834 0.15% ($496) $3,338
+Cap I Assets in fund 1.16%
+Total for Wells Fargo $330,486 $3,834 ($496) $3,338
+Funds
+Blank fields in the table above can be assumed to be not applicable or zero.
+Not all 12b-1 and/or Admin fees may flow through the Recordkeeper. A third party may be receiving the 12b-1
+and/or Admin fees directly. Due to this, the amount shown in the Estimated Net Payments column may be
+overstated.
+Great-West may provide unit valuation and custody services for certain of the above investment options
+under an agreement with the plan sponsor. Any unit valuation and custody fees received by Great-West
+are described in the plan's administrative services agreement but are not reflected in the Payments to
+Recordkeeper estimates in this document.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 14 of 17INVESTMENT	BASIS FOR
+ESTIMATE	GROSS/
+NET
+EXPENSE
+RATIO	ESTIMATED
+GROSS
+PAYMENTS
+TO IP	12B-1	ADMIN	ESTIMATED
+PAYMENTS
+FROM IP	ESTIMATED
+NET
+PAYMENTS
+			[estimate X net
+expense ratio]			[(12b1 X
+estimate)+
+(Admin X
+estimate)]	[gross pmts-
+pmts from IP]
+ClearBridge Large Cap
+Growth I	$1,043,735
+Assets in fund	0.76%/
+0.76%	$7,932		0.15%	($1,566)	$6,366
+Total for Legg Mason	$1,043,735		$7,932			($1,566)	$6,366
+Lord Abbett							
+Lord Abbett Floating Rate
+R5	$392,088
+Assets in fund	0.59%/
+0.59%	$2,313		0.20%	($784)	$1,529
+Total for Lord Abbett	$392,088		$2,313			($784)	$1,529
+Natixis Funds							
+Loomis Sayles Core Plus
+Bond Y	$340,698
+Assets in fund	0.48%/
+0.48%	$1,635		0.20%	($681)	$954
+Total for Natixis Funds	$340,698		$1,635			($681)	$954
+Putnam							
+Putnam Growth
+Opportunities Y	$0 Assets in
+fund	0.78%/
+0.78%	$0			($0)	$0
+Total for Putnam	$0		$0			($0)	$0
+Vanguard							
+Vanguard 500 Index
+Admiral	$1,709,716
+Assets in fund	0.04%/
+0.04%	$684			($0)	$684
+Vanguard Real Estate
+Index Admiral	$261,521
+Assets in fund	0.12%/
+0.12%	$314			($0)	$314
+Vanguard Small Cap
+Index Adm	$307,660
+Assets in fund	0.05%/
+0.05%	$154			($0)	$154
+Total for Vanguard	$2,278,897		$1,152			($0)	$1,152
+Wells Fargo Funds							
+Wells Fargo Global Small
+Cap I	$330,486
+Assets in fund	1.22%/
+1.16%	$3,834		0.15%	($496)	$3,338
+Total for Wells Fargo
+Funds	$330,486		$3,834			($496)	$3,338SERVICE CODE 1.1
+ESTIMATED
+ESTIMATED
+GROSS ESTIMATED
+INVESTMENT B EA SS TI IS AF TO ER ESTF IE ME PA TY OM E IPNTS ALL TO OC RA KTION PA TY OM REN KTS NET EXPENSE
+M ATE
+[basis X fee [basis X [payments from
+estimate] allocation to RK] IP - allocation to RK]
+Great-West General Account
+Guaranteed Interest Fund $8,078,605 0.35% $28,275 0.25% ($20,197) $8,078
+Assets in fund
+Total for Great-West $8,078,605 $28,275 ($20,197) $8,078
+General Account
+For an explanation of the Fee Estimate, please see the "General Account Fund and Guarantee Provisions"
+disclosure in the Disclosure Section of this document.
+Total Annual Payment Estimate to Investment Providers (IP) (Q)$41,310
+Payments to Recordkeeper (RK)
+Plan Services Fees
+SERVICE BASIS FOR GROSS
+FEE TYPE PAID BY ANNUAL FEE
+CODE ESTIMATE PAYMENTS
+2.1 Participant Disclosure Billed to Plan $2 Actual Expenses $122
+Document Fee for Sponsor
+Active Participants
+Participant Disclosure Billed to Plan $2 Actual Expenses $0
+Document Fee for Sponsor
+Eligible Participants
+Total Annual Payment Estimate for Plan Services (Y)$122
+Participant Services Fees
+SERVICE GROSS
+FEE TYPE PAID BY FEE
+CODE PAYMENTS
+2.2 Periodic Payment Maintenance Deducted from $25 $56
+Fee Participant
+Loan Origination Fee Deducted from Loan $50 Per Loan $350
+Overnight/ACH/Wire requests may be subject to a fee of up to $40 per transaction.
+Total Annual Actual Payments for Participant Services (W)$406
+See the Administrative Service Agreement for the fees for any participant services not reflected above.
+Participant Service Fees displayed above are the actual assessed fees to date based on a rolling twelve month
+period.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 15 of 17SERVICE CODE 1.1						
+INVESTMENT	BASIS FOR
+ESTIMATE	FEE
+ESTIMATE	ESTIMATED
+GROSS
+PAYMENTS
+TO IP	ALLOCATION
+TO RK	ESTIMATED
+PAYMENTS
+TO RK	ESTIMATED
+NET EXPENSE
+			[basis X fee
+estimate]		[basis X
+allocation to RK]	[payments from
+IP - allocation to RK]
+Great-West General Account						
+Guaranteed Interest Fund	$8,078,605
+Assets in fund	0.35%	$28,275	0.25%	($20,197)	$8,078
+Total for Great-West
+General Account	$8,078,605		$28,275		($20,197)	$8,078SERVICE
+CODE	FEE TYPE	PAID BY	ANNUAL FEE	BASIS FOR
+ESTIMATE	GROSS
+PAYMENTS
+2.1	Participant Disclosure
+Document Fee for
+Active Participants	Billed to Plan
+Sponsor	$2	Actual Expenses	$122
+	Participant Disclosure
+Document Fee for
+Eligible Participants	Billed to Plan
+Sponsor	$2	Actual Expenses	$0SERVICE
+CODE	FEE TYPE	PAID BY	FEE	GROSS
+PAYMENTS
+2.2	Periodic Payment Maintenance
+Fee	Deducted from
+Participant	$25	$56
+	Loan Origination Fee	Deducted from Loan	$50 Per Loan	$350Listing of Available Additional Services and Fees
+SERVICE
+SERVICE PAID BY FEES
+CODE
+2.3 Qualified Domestic Relations Order Processing Billed to Plan Sponsor $75 per request
+Services
+Representation During IRS/DOL Audit Billed to Plan Sponsor Quoted upon request
+Consultation Related to Plan Mergers Billed to Plan Sponsor Quoted upon request
+Data Entry Services Billed to Plan Sponsor $75 per hour
+Reconciliation of Loan Data Billed to Plan Sponsor $75 per hour
+Special Consulting Services Billed to Plan Sponsor $75 per hour
+Additional Services Available to Plans Utilizing Empower Retirement Compliance Services
+2.3 Additional Compliance Testing for 401(a)(4) Billed to Plan Sponsor $1,000 per plan year
+Non-discrimination
+Additional Compliance Testing for 401(k)/(m) Billed to Plan Sponsor $75 per hour
+Additional Compliance Testing for 410(b) Billed to Plan Sponsor $75 per hour
+Plan Document Amendments to Change Plan Billed to Plan Sponsor $1,600 Per request
+Year
+Conversion to Internal Compliance Billed to Plan Sponsor $1,000 Per request
+Employer Discretionary Contributions Billed to Plan Sponsor $75 per hour
+IRS Filing of Letter of Determination Billed to Plan Sponsor $75 per hour
+Other Compliance Testing and/or Corrective Billed to Plan Sponsor $75 per hour
+Calculations
+Plan Disaggregation Billed to Plan Sponsor $1,600 per plan year
+Creation/Amendment - Prototype Plan Billed to Plan Sponsor $325 Per request
+Document
+Plan Termination Services Billed to Plan Sponsor $2,000 Per request
+Rights and Features Test Billed to Plan Sponsor $75 per hour
+Creation/Amendment - Volume Submitter Plan Billed to Plan Sponsor $575 Per request
+Document
+Plan level additional services listed may be requested by the Plan Sponsor in writing. The applicable fee will
+apply to any services performed based on that request.
+Additional Services
+SERVICE
+SERVICE PAID BY FEES
+CODE
+2.3 Creation/Amendment - Prototype Plan Document Billed to Plan Sponsor $325
+Total Annual Actual Payment for Additional Services $325
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 16 of 17SERVICE
+CODE	SERVICE	PAID BY	FEES
+2.3	Qualified Domestic Relations Order Processing
+Services	Billed to Plan Sponsor	$75 per request
+	Representation During IRS/DOL Audit	Billed to Plan Sponsor	Quoted upon request
+	Consultation Related to Plan Mergers	Billed to Plan Sponsor	Quoted upon request
+	Data Entry Services	Billed to Plan Sponsor	$75 per hour
+	Reconciliation of Loan Data	Billed to Plan Sponsor	$75 per hour
+	Special Consulting Services	Billed to Plan Sponsor	$75 per hour
+Additional Services Available to Plans Utilizing Empower Retirement Compliance Services			
+2.3	Additional Compliance Testing for 401(a)(4)
+Non-discrimination	Billed to Plan Sponsor	$1,000 per plan year
+	Additional Compliance Testing for 401(k)/(m)	Billed to Plan Sponsor	$75 per hour
+	Additional Compliance Testing for 410(b)	Billed to Plan Sponsor	$75 per hour
+	Plan Document Amendments to Change Plan
+Year	Billed to Plan Sponsor	$1,600 Per request
+	Conversion to Internal Compliance	Billed to Plan Sponsor	$1,000 Per request
+	Employer Discretionary Contributions	Billed to Plan Sponsor	$75 per hour
+	IRS Filing of Letter of Determination	Billed to Plan Sponsor	$75 per hour
+	Other Compliance Testing and/or Corrective
+Calculations	Billed to Plan Sponsor	$75 per hour
+	Plan Disaggregation	Billed to Plan Sponsor	$1,600 per plan year
+	Creation/Amendment - Prototype Plan
+Document	Billed to Plan Sponsor	$325 Per request
+	Plan Termination Services	Billed to Plan Sponsor	$2,000 Per request
+	Rights and Features Test	Billed to Plan Sponsor	$75 per hour
+	Creation/Amendment - Volume Submitter Plan
+Document	Billed to Plan Sponsor	$575 Per requestSERVICE
+CODE	SERVICE	PAID BY	FEES
+2.3	Creation/Amendment - Prototype Plan Document	Billed to Plan Sponsor	$325Contract Termination Fee:
+Contract Termination Fees may apply. For more information, refer to your annuity contract and/or fee schedule.
+Payments to Others
+SERVICE SERVICE SERVICE BASIS FOR GROSS
+FEES
+CODE PROVIDER DESCRIPTION ESTIMATE PAYMENTS
+Trustee and Custodial Services
+3.1 Great-West Trust,LLC Custodial Services $500 Flat Fee $500
+Total $500
+Plan Expense Account / Participant Revenue Credit
+3.2 Intex Corp. 401(k) Funds Available to 0.249996% $16,912,412 $42,280
+Profit Sharing Plan Lower Plan Fees/ Assets in Plan
+Expenses.
+Intex Corp. 401(k) Funds Available to $24,000 Flat Fee $24,000
+Profit Sharing Plan Lower Plan Fees/
+Expenses.
+Total $66,280
+Total Annual Payment Estimate for Others (Z)$66,780
+Superscript letters in parentheses (x) denote the flow of fee totals throughout this document.
+Securities offered by GWFS Equities, Inc., Member FINRA/SIPC, marketed under the Empower brand, and/or other broker-dealers. GWFS is affiliated
+with Great-West Funds, Inc.; Great-West Trust Company, LLC; and registered investment advisers Advised Assets Group, LLC and Great-West Capital
+Management, LLC, marketed under the Great-West Investments™ brand.
+DOC_TYPE: FEEDSC_STD 01:071817 401K GP19
+DOC ID: 563858578 EV ID:
+IND ID: Page 17 of 17SERVICE
+CODE	SERVICE
+PROVIDER	SERVICE
+DESCRIPTION	FEES	BASIS FOR
+ESTIMATE	GROSS
+PAYMENTS
+Trustee and Custodial Services					
+3.1	Great-West Trust,LLC	Custodial Services	$500	Flat Fee	$500
+				Total	$500
+Plan Expense Account / Participant Revenue Credit					
+3.2	Intex Corp. 401(k)
+Profit Sharing Plan	Funds Available to
+Lower Plan Fees/
+Expenses.	0.249996%	$16,912,412
+Assets in Plan	$42,280
+	Intex Corp. 401(k)
+Profit Sharing Plan	Funds Available to
+Lower Plan Fees/
+Expenses.	$24,000	Flat Fee	$24,000
+				Total	$66,280

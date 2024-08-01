@@ -1,0 +1,909 @@
+Clarity in a Complex World:
+Plan Fee Disclosure for Plan Fiduciaries
+Fee Disclosure
+MG Stover 401(k) Plan
+515672-01
+As of November 30, 2022
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 1 of 16Introduction
+This report will help you as plan fiduciaries better understand the costs associated with your retirement plan
+- for both you as a plan sponsor and for your plan participants. The report is designed to meet the ERISA fee
+disclosure regulations of the United States Department of Labor (DOL).
+We have summarized the plan cost components, and have provided a description of the services provided for
+those costs. We feel that the more you know about the costs in your plan - including all fees and expenses -
+the better you will understand the value of Empower.
+Fee transparency is a sponsor and participant right
+Sponsors and participants are entitled to clear information about the fees and expenses associated with their
+retirement plans.
+Fee transparency is integral to meeting fiduciary responsibilities
+We believe that understanding the relationship between cost and benefit is a crucial part of a plan sponsor's
+fiduciary responsibilities.
+ERISA Requirements
+DOL regulations require certain service providers that receive more than $1,000 in compensation to make
+explicit disclosures to certain retirement plans that they serve. For more information, please visit the DOL
+Employee Benefits Security Administration's website (www.dol.gov/ebsa).
+What This Report Contains
+This report provides an estimate of the fees paid by your plan.
+As your plan's Recordkeeper, we may make payments to other plan service providers on behalf of the plan.
+We are not responsible for the disclosures of any unrelated service providers.
+This document begins with a high-level summary of the estimated fees and becomes detailed throughout
+each section. All the information shown is in dollar figure estimates, where appropriate. To simplify readability,
+superscript letters identify dollar figures that carry over from one section and appear in another section as a
+line item.
+Some of the services and fees described may not be applicable to your plan but are representative of available
+services.
+Report Sections
+A. Summary of Fee and Expense Estimates
+B. Explanation of Services
+C. Estimated Cash Flow Summary
+D. Disclosures
+E. Itemized Services and Costs
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 2 of 16A. Summary of Fee and Expense Estimates
+Estimates presented are based on information as of November 30, 2022 on the following:
+Total Assets $4,399,954
+Unallocated Plan Assets $0
+Participant Assets $4,386,938
+Loan Balances $13,016
+Number of Participants 110
+As the fees and expenses contained in this disclosure are estimates based on the above information at a point
+in time, they will not necessarily match the actual amounts paid or the amounts contained in any financial
+report, such as an Annual Plan Summary.
+Total Assets are the sum of Unallocated Assets, Participant Assets and Loan Balances. Plan Unallocated
+Assets consist of plan assets that are not allocated to plan participants. This might include unclaimed
+participant balances, amounts received but not yet allocated to participants, forfeitures, and amounts set aside
+for plan expenses. Participant Assets are amounts held in participants’ accounts. Loan Balances equal
+the outstanding loan amounts for participants. Number of Participants includes participants with an account
+balance as of the month-end.
+In this document, estimates provided may not match amounts billed to the Plan Sponsor or debited from
+participant accounts and may not match financial reports. These annual estimates are generally based on
+month-end projections that are annualized over a 12-month period and rounded to the nearest dollar.
+ESTIMATED ESTIMATED
+ANNUAL
+CATEGORY OF SERVICE AVERAGE COST PERCENTAGE OF
+ESTIMATE
+PER PARTICIPANT TOTAL ASSETS
+Payments to Investment Providers (IP) (Q)$5,399 $49 0.12%
+Payments to Recordkeeper (RK) (X)$33,413 $304 0.76%
+Payments to Others (Z)$947 $9 0.02%
+Total Estimate (K)$39,759 $362 0.90%
+Superscript letters in parentheses (x) denote the flow of fee totals throughout this document.
+Empower Trust Company LLC. (Empower) and its affiliates do not provide fiduciary services, except in the case(s) where the
+fiduciary status is specifically and affirmatively disclosed below.
+If Empower Advisory Group, LLC provides services to the Plan under an agreement with Plan Sponsor, it may be a fiduciary and
+Registered Investment Advisor to the Plan to the extent provided in such agreement.
+If Empower Annuity Insurance Company of America or an affiliate provides participant investment advice services or agrees to
+provide certain administrative services in a fiduciary capacity to the Plan under the Administrative Services Agreement, it is a
+fiduciary with respect to such services.
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 3 of 16CATEGORY OF SERVICE	ANNUAL
+ESTIMATE	ESTIMATED
+AVERAGE COST
+PER PARTICIPANT	ESTIMATED
+PERCENTAGE OF
+TOTAL ASSETS
+Payments to Investment Providers (IP)	(Q)$5,399	$49	0.12%
+Payments to Recordkeeper (RK)	(X)$33,413	$304	0.76%
+Payments to Others	(Z)$947	$9	0.02%
+Total Estimate	(K)$39,759	$362	0.90%B. Explanation of Services
+The services reflected may not be applicable to all plans, but are representative of available services.
+SERVICE
+Investment Providers (IP)
+CODE
+1.1 Investment Management Services: Includes all Plan investments selected by Plan Sponsor for which the
+Recordkeeper provides recordkeeping services.
+SERVICE
+Recordkeeper (RK)
+CODE
+2.1 Plan Services: Performing the duties necessary for the plan to comply with legal, regulatory and the plan's
+own requirements. Some of these duties include plan document service, compliance service and distribution
+tax reporting. Plan services would also include plan communication, education, enrollment, website and
+voice response system.
+2.2 Participant Services: Creating and maintaining records of all participant and beneficiary accounts and the
+transactions and changes affecting them. This may include participant loan initiation, loan maintenance, fund
+transfers, distributions or hardship withdrawals. Participant services would include communications to the
+participant - quarterly statements and newsletters.
+2.3 Additional Services: These plan level transactional services are available to the Plan Sponsor and can be
+requested in writing to the Recordkeeper.
+SERVICE
+Others
+CODE
+3.1 Trustee and Custodial Services: Services include the holding of plan assets pursuant to a trust or custodial
+agreement.
+3.2 Participant Advice: Empower Advisory Group, LLC offers investment advice and/or discretionary managed
+account services to plan participants if your plan contracts for these services. In providing these services,
+Empower Advisory Group, LLC acts as a registered investment adviser under the Investment Advisor Act
+of 1940, and as a fiduciary under ERISA. Additional information may be provided in your service agreement
+with Empower Advisory Group, LLC and other service-related documents, such as Empower Advisory
+Group, LLC's Form ADV, any of which may be provided and/or amended from time to time. Empower
+Advisory Group, LLC is an affiliate of Empower Trust Company LLC..
+For a listing of your Plan services please refer to your Service Agreement and/or Schedule of Services.
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 4 of 16	
+SERVICE
+CODE	Investment Providers (IP)
+1.1	Investment Management Services: Includes all Plan investments selected by Plan Sponsor for which the
+Recordkeeper provides recordkeeping services.
+SERVICE
+CODE	Recordkeeper (RK)
+2.1	Plan Services: Performing the duties necessary for the plan to comply with legal, regulatory and the plan's
+own requirements. Some of these duties include plan document service, compliance service and distribution
+tax reporting. Plan services would also include plan communication, education, enrollment, website and
+voice response system.
+2.2	Participant Services: Creating and maintaining records of all participant and beneficiary accounts and the
+transactions and changes affecting them. This may include participant loan initiation, loan maintenance, fund
+transfers, distributions or hardship withdrawals. Participant services would include communications to the
+participant - quarterly statements and newsletters.
+2.3	Additional Services: These plan level transactional services are available to the Plan Sponsor and can be
+requested in writing to the Recordkeeper.
+SERVICE
+CODE	Others
+3.1	Trustee and Custodial Services: Services include the holding of plan assets pursuant to a trust or custodial
+agreement.
+3.2	Participant Advice: Empower Advisory Group, LLC offers investment advice and/or discretionary managed
+account services to plan participants if your plan contracts for these services. In providing these services,
+Empower Advisory Group, LLC acts as a registered investment adviser under the Investment Advisor Act
+of 1940, and as a fiduciary under ERISA. Additional information may be provided in your service agreement
+with Empower Advisory Group, LLC and other service-related documents, such as Empower Advisory
+Group, LLC's Form ADV, any of which may be provided and/or amended from time to time. Empower
+Advisory Group, LLC is an affiliate of Empower Trust Company LLC..C. Estimated Cash Flow Summary
+This section lists each investment manager and service provider that collects fees directly or indirectly from
+your Retirement Plan, from participants or from the employer, and all remittances paid out on behalf of your
+Plan.
+Payments to Investment Providers (IP)
+ESTIMATED ESTIMATED
+SERVICE ESTIMATED PAYMENTS
+INVESTMENT PROVIDER GROSS PAYMENTS NET PAYMENTS
+CODE FROM IP
+TO IP TO IP
+1.1 American Century Investments $143 ($0) $143
+Baird $42 ($0) $42
+Cohen & Steers $377 ($0) $377
+Fidelity Investments $323 ($0) $323
+John Hancock $378 ($0) $378
+MFS $762 ($0) $762
+PIMCO $190 ($0) $190
+Principal Funds $862 ($0) $862
+Putnam $611 ($0) $611
+Vanguard $1,693 ($0) $1,693
+Wilmington Trust, N.A $18 ($0) $18
+Total Estimate $5,399 (V)($0) (Q)$5,399
+Payments to Recordkeeper (RK)
+ESTIMATED DIRECT ESTIMATED PAYMENTS ESTIMATED
+SERVICE
+SERVICE PROVIDED PAYMENTS TO RK FROM IP TO RK PAYMENTS TO RK
+CODE
+[A] [B] [A + B =C]
+2.1 Plan Services (Y)$33,025 (V)$0 $33,025
+2.2 Participant Services (W)$1,335 $1,335
+2.3 Additional Services $0 $0
+Payments to Others (Z)($947)
+Total Estimate (X)$33,413
+Payments to Others
+SERVICE
+SERVICE PROVIDED ESTIMATED NET PAYMENTS TO OTHERS
+CODE
+3.1 Trustee and Custodial Services $750
+3.2 Participant Advice $197
+Total Estimate (Z)$947
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 5 of 16SERVICE
+CODE	INVESTMENT PROVIDER	ESTIMATED
+GROSS PAYMENTS
+TO IP	ESTIMATED PAYMENTS
+FROM IP	ESTIMATED
+NET PAYMENTS
+TO IP
+1.1	American Century Investments	$143	($0)	$143
+	Baird	$42	($0)	$42
+	Cohen & Steers	$377	($0)	$377
+	Fidelity Investments	$323	($0)	$323
+	John Hancock	$378	($0)	$378
+	MFS	$762	($0)	$762
+	PIMCO	$190	($0)	$190
+	Principal Funds	$862	($0)	$862
+	Putnam	$611	($0)	$611
+	Vanguard	$1,693	($0)	$1,693
+	Wilmington Trust, N.A	$18	($0)	$18
+Total Estimate		$5,399	(V)($0)	(Q)$5,399SERVICE
+CODE	SERVICE PROVIDED	ESTIMATED DIRECT
+PAYMENTS TO RK	ESTIMATED PAYMENTS
+FROM IP TO RK	ESTIMATED
+PAYMENTS TO RK
+		[A]	[B]	[A + B =C]
+2.1	Plan Services	(Y)$33,025	(V)$0	$33,025
+2.2	Participant Services	(W)$1,335		$1,335
+2.3	Additional Services	$0		$0
+Payments to Others				(Z)($947)
+Total Estimate				(X)$33,413SERVICE
+CODE	SERVICE PROVIDED	ESTIMATED NET PAYMENTS TO OTHERS
+3.1	Trustee and Custodial Services	$750
+3.2	Participant Advice	$197
+Total Estimate (Z)$947		Note: This section may include amounts that are not paid to or by the Recordkeeper, but paid to
+another party through the recordkeeping system.
+Total Annual Net Cost Estimate (K)$39,759
+Superscript letters in parentheses (x) denote the flow of fee totals throughout this document.
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 6 of 16D. Disclosures
+This document contains estimates of plan expenses and is intended to provide a detailed summary of
+fees being charged to the plan or its participants to the extent such information is in the Recordkeeper’s
+possession. While it is intended to provide information regarding all material fees, this document may not be
+comprehensive, and it may not include full information on fees associated with some specially negotiated
+services or with certain investment options, such as Self-Directed Brokerage Accounts, Life Insurance,
+Employer Stock, etc. For further fee information, please refer to the relevant service agreements and/or
+prospectuses, including information that may be needed to comply with Participant Disclosure obligations.
+As your Recordkeeper, we make no representation as to the completeness or accuracy of materials, such as
+prospectuses, created and/or provided by a third-party investment provider.
+Additional Compensation Paid to Recordkeeper for Correction of Transactional Errors:
+Participant and Plan Transaction Errors. If the Recordkeeper does not accurately process contribution or
+investment instructions provided in good order by a Participant or the Plan Sponsor (e.g., investment allocation
+of Plan contributions, investment exchanges or transfers) or does not accurately process a Plan transaction
+as instructed by a Participant or directed by the Plan Sponsor (e.g. timely processing a Plan distribution
+or processing a Participant's direct rollover request as a lump sum) and the issue is timely brought to the
+Recordkeeper's attention, Empower will, at its own expense, retroactively correct the error by adjusting the
+Participant's account to the financial position where it would have been, adjusted for earnings and reduced by
+any losses, had the error not occurred.
+Trading Gains. If Empower does not accurately process a trade with the mutual fund company as directed
+by the Plan Sponsor or as instructed by a Participant, then the Recordkeeper will correct the share position at
+the mutual fund company as if the error had not occurred. In the event there are multiple funds involved, the
+Recordkeeper will net gains and losses across all funds involved.
+If a correction to adjust the Participant's account to the financial position where it would have been if the
+error had not occurred is made at the Recordkeeper's expense and results in a transactional net loss, the
+Recordkeeper will bear the transaction loss. However, if the correction results in a transactional net gain, the
+Recordkeeper will retain the transaction gain as compensation for services provided to the plan and to defray
+costs of servicing the plan.
+Bank Credit Disclosure:
+If the Plan’s assets pass through a bank account held by Empower Trust Company LLC. (Empower) or its
+affiliates/subsidiaries (Empower Trust Company, LLC), it may earn credits and/or interest on Plan assets
+awaiting investment or pending distribution. Any credits or interest earned by Empower are aggregated with
+credits and/or interest earned by Empower affiliates/subsidiaries and will be used to defray the aggregate
+expenses for the maintenance of bank accounts. Empower will not retain credits and/or interest earned in
+excess of such maintenance expenses.
+Credits and/or interest are earned from the use of (i) uninvested contributions received too late in the day or
+not received in good order to be invested same-day and (ii) proceeds from investment option redemptions
+where Plan distribution checks have not been presented for payment by Plan participants. Credits and/or
+interest (i) begin to accrue on contributions, on the date such amounts are deposited into the bank account
+and end on the date such amounts are invested pursuant to Plan participant or Plan representative instructions
+and (ii) begin to accrue on distributions, on the date the check is written or on the wire date, as applicable and
+end on the date the check is presented for payment or when the wire clears again the account, as applicable.
+Earnings of credits and/or interest are at the rate the bank provides from time to time.
+Empower Student Debt Solution – Student Loan Assessment and Refinancing:
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 7 of 16Empower has partnered with CommonBond, Inc. to provide a student loan refinancing service for employees.
+Empower receives a referral fee from CommonBond up to $300 for each loan refinanced through the Empower
+Student Debt Solution platform with CommonBond.
+Investments
+Mutual Fund Expense Ratio & Collective Investment Trust (CIT) Expense:
+The Service Provider has entered into agreements with certain mutual funds/CITs (or their service providers,
+including advisors, administrators or transfer agents, and underwriters) whereby the Service Provider provides
+shareholder and/or distribution services and receives compensation from the mutual fund/CIT (or their service
+providers) based on the value of the plan's investment in the fund/CIT. This compensation may include fees
+for administrative and other expenses and/or fees paid under a plan of distribution under SEC Rule 12b-1
+("12b-1 fees"). The fees received by the Service Provider are included in the expense ratio described in the
+applicable fund’s prospectus or similar disclosure document, and reduce the investment option’s net asset
+value (NAV). Generally, fees and expenses included in the expense ratio are deducted at regular intervals
+based on a percentage of the investment option’s average daily net assets. For CITs, an investment company
+may include other fees that are not disclosed in this fee disclosure document but are provided in a separate
+disclosure under separate cover.
+Redemption Fees:
+Redemption fees are charged by mutual fund companies to discourage investors from making a short-term
+“round trip” (i.e. a purchase, typically a transfer, followed by a sale within a short period of time). Most mutual
+fund companies that charge redemption fees will impose the fee upon the purchase and subsequent sale
+occurring within a specified time frame. Please refer to your mutual fund prospectuses for specific redemption
+fee details.
+Additional Fund Compensation:
+The Service Provider may receive additional revenue as a finder’s fee from non-affiliated fund companies as
+shown in the prospectus and other regulatory documents for each of the funds held by the plan.
+Empower Annuity Insurance Company of America (Empower) receives payments from some investment fund
+families through the Empowering Fund Partnership Program ("EFPP"). Under the EFPP, fund families receive
+several services based on the EFPP tier in which they participate. These services are provided directly to fund
+families and include: (i) consideration for inclusion in Empower products developed for some segments of the
+retirement and IRA market, (ii) inclusion on the Empower Select investment platform, which is available in the
+small plan recordkeeping market, (iii) a waiver of the connectivity fee described below, (iv) enhanced marketing
+opportunities, (v) additional reporting capabilities, (vi) collaboration in thought leadership opportunities, (vii)
+access to meetings with Empower leadership, Empower staff, and the third party advisory and brokerage firms
+through whom Empower distributes its services, and (viii) access to conferences put on by Empower. The
+yearly fees for EFPP participation are $1,000,000 for tier 1, $500,000 for tier 2. These fees do not vary based
+on an Empower client's use of the funds offered by the fund family.
+For additional information about fund families that participate in the fund partner program, please visit https://
+docs.empower.com/advisor/Empowering-Fund-Partnership-Disclosure.pdf.
+Empower also receives payments from fund families through a connectivity program (the "Connectivity
+Program"). The Connectivity Program charges fund families for the cost of administering funds on Empower
+investment platforms, and for building and maintaining data connections between Empower and the fund
+family. In 2019, the Connectivity Program charges $1,000 per investment fund used on recordkeeping and
+IRA investment platforms. Beginning in May 2019, if a retirement plan starts receiving recordkeeping services
+through Empower's small plan recordkeeping segment, and the plan has a fund from a fund family that
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 8 of 16does not participate in the Connectivity Program or the EFPP, then Empower will assess a separate annual
+investment access fee of $1,000 to the plan. Depending on plan selection of the non-participating fund family,
+the investment access fee charge may be more or less than the fees received under the Connectivity Program
+from the fund family.
+For additional information about funds that participate in the Connectivity Program, please visit https://
+docs.empower.com/advisor/Empowering-Fund-Partnership-Disclosure.pdf.
+Rollover Programs:
+Empower may receive payments of up to $35 per rollover under separate agreements with certain rollover
+providers (including Millennium Trust Company and WMSI Securities LLC) for providing transaction and
+administrative services. Any such payments are not fees for distribution services to the plan under the plan's
+administrative services agreement with Empower.
+5500 Schedule C
+As applicable, the disclosures herein are intended to satisfy the eligible indirect compensation (“EIC”)
+requirements for Form 5500 Schedule C purposes.
+Direct Compensation:
+As your Recordkeeper, Empower tracks and reports all direct fee compensation (such as the standard fees
+and non-standard fees that are paid from plan assets during the plan year) as part of the plan-level reporting
+in your Annual Plan Summary. A detailed list of direct fees are provided in the Fee and Withdrawal report as
+well as summarized in the supplemental report section containing the Information for Completing Form 5500
+Schedule C.
+Indirect Compensation:
+The listed expenses and costs are the types of eligible indirect compensation that may have been received
+either by (i) the Recordkeeper for their services or (ii) mutual fund companies whose funds are investment
+options in your Plan. The disclosures herein are intended to satisfy the EIC requirements for Form 5500
+Schedule C purposes, as applicable.
+Other Investment-Related Fees:
+The investment funds offered by your Plan may have fees that are retained by the fund company or other
+investment provider as payment for ongoing management of the fund and other services. The fee amounts will
+vary from fund to fund and are generally charged as a percentage of the fund’s value.
+Please refer to the latest investment materials such as prospectuses and other regulatory disclosures for
+each of the funds held by your Plan (as provided by your Plan’s investment advisor or directly from the fund
+companies or investment firms) for details regarding services and fees.
+The latest prospectus and other regulatory documents for each of the funds held by the plan can be found
+within the Investment section of the Plan Service Center.
+This list of investment fees is intended to give the plan a list of the most important fees being charged to
+the plan or its participants. It is intended to provide information regarding all material fees, but may not be
+comprehensive and may not include information on fees such as Self Directed Brokerage Accounts, Life
+Insurance, Employer Stock, etc. For other fee information, please refer to all other plan documents including
+service agreement and/or prospectus, including information that may be needed to comply with participant
+Disclosure obligations. As your Recordkeeper, we make no representation as to the completeness or accuracy
+of materials, such as prospectuses, created and/or provided by a third-party investment provider.
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 9 of 16Affiliates and Subcontractors
+We are required to disclose certain fees paid between Empower Trust Company LLC. (Empower) and its
+related parties (affiliates/subsidiaries and subcontractors). This includes compensation paid in connection with
+the services Empower or its affiliates/subsidiaries have agreed to provide to the Plan, if the compensation is
+set on a transaction/incentive basis (such as commissions, soft dollars, or finder’s fees) or if the compensation
+is charged directly against a plan investment and reflected in the investment’s net value.
+The fees disclosed are not in addition to previously disclosed fees; rather, this information is intended to
+increase transparency about how Empower uses the fees it receives.
+Affiliates:
+The following entities are affiliates of the Recordkeeper, in that they directly or indirectly control, are controlled
+by, or are under common control with the Recordkeeper. These affiliates may receive fees from the plan, or
+from the Recordkeeper or another affiliate for performing certain services for the plan.
+Refer to the Itemized Services and Cost section for details regarding affiliate payments.
+Empower Financial Services, Inc. is an affiliate that receives payments from the Investment Provider.
+Payments are first paid to Empower Financial Services, Inc. which in turn pays the Recordkeeper.
+Affiliates: The following are affiliates or subsidiaries of Empower Trust Company LLC. (Empower), but not all
+Empower affiliates or subsidiaries may pertain to your Plan.
+n Empower Advisory Group, LLC
+n Empower Financial Services, Inc.
+n Empower Retirement, LLC
+n Empower Capital Management, LLC
+n Empower Funds, Inc.
+n Putnam Investment Company
+n Empower Trust Company, LLC
+n Empower Life & Annuity Insurance Company of New York
+Subcontractors:
+A subcontractor is any person or entity that is not an affiliate of Empower, which is expected to receive $1,000
+or more in compensation for performing one or more services for the plan under a contract or arrangement with
+Empower.
+COMPANY SUBCONTRACTOR PROVIDED SERVICE
+QDRO Consultants Plan administration services - QDRO review services
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 10 of 16COMPANY SUBCONTRACTOR	PROVIDED SERVICE
+QDRO Consultants	Plan administration services - QDRO review servicesE. Itemized Services and Costs
+This section details how each service expense is calculated. Totals here are presented in the Summary of Fee
+and Expense Estimates section. Estimates presented are based on expenditures and activity in the 12 month
+period ending November 30, 2022 and on the following:
+Total Assets $4,399,954
+Unallocated Plan Assets $0
+Participant Assets $4,386,938
+Loan Balances $13,016
+Number of Participants 110
+The annual estimates displayed in this document will not match actual financial reports such as the Annual
+Plan Summary.
+Payments to Investment Providers (IP)
+SERVICE CODE 1.1
+ESTIMATED
+ESTIMATED ESTIMATED
+GROSS
+GROSS/ PAYMENTS NET
+PAYMENTS
+BASIS FOR NET FROM IP PAYMENTS
+INVESTMENT TO IP 12B-1 ADMIN
+ESTIMATE EXPENSE
+[(12b1 X
+RATIO
+[estimate X net estimate)+ [gross pmts-
+expense ratio] (Admin X pmts from IP]
+estimate)]
+American Century Investments
+American Century Small $19,321 Assets 0.74%/ $143 ($0) $143
+Cap Value R6 in fund 0.74%
+Total for American $19,321 $143 ($0) $143
+Century Investments
+Baird
+Baird Core Plus Bond $13,965 Assets 0.30%/ $42 ($0) $42
+Inst in fund 0.30%
+Total for Baird $13,965 $42 ($0) $42
+Cohen & Steers
+Cohen & Steers Realty $47,171 Assets 0.83%/ $377 ($0) $377
+Shares Z in fund 0.80%
+Total for Cohen & $47,171 $377 ($0) $377
+Steers
+Fidelity Investments
+Fidelity 500 Index $1,009,376 0.02%/ $151 ($0) $151
+Assets in fund 0.02%
+Fidelity International $90,910 Assets 0.04%/ $32 ($0) $32
+Index in fund 0.04%
+Fidelity Mid Cap Index $268,475 0.03%/ $67 ($0) $67
+Assets in fund 0.03%
+Fidelity Small Cap Index $230,195 0.03%/ $58 ($0) $58
+Assets in fund 0.03%
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 11 of 16SERVICE CODE 1.1							
+INVESTMENT	BASIS FOR
+ESTIMATE	GROSS/
+NET
+EXPENSE
+RATIO	ESTIMATED
+GROSS
+PAYMENTS
+TO IP	12B-1	ADMIN	ESTIMATED
+PAYMENTS
+FROM IP	ESTIMATED
+NET
+PAYMENTS
+			[estimate X net
+expense ratio]			[(12b1 X
+estimate)+
+(Admin X
+estimate)]	[gross pmts-
+pmts from IP]
+American Century Investments							
+American Century Small
+Cap Value R6	$19,321 Assets
+in fund	0.74%/
+0.74%	$143			($0)	$143
+Total for American
+Century Investments	$19,321		$143			($0)	$143
+Baird							
+Baird Core Plus Bond
+Inst	$13,965 Assets
+in fund	0.30%/
+0.30%	$42			($0)	$42
+Total for Baird	$13,965		$42			($0)	$42
+Cohen & Steers							
+Cohen & Steers Realty
+Shares Z	$47,171 Assets
+in fund	0.83%/
+0.80%	$377			($0)	$377
+Total for Cohen &
+Steers	$47,171		$377			($0)	$377
+Fidelity Investments							
+Fidelity 500 Index	$1,009,376
+Assets in fund	0.02%/
+0.02%	$151			($0)	$151
+Fidelity International
+Index	$90,910 Assets
+in fund	0.04%/
+0.04%	$32			($0)	$32
+Fidelity Mid Cap Index	$268,475
+Assets in fund	0.03%/
+0.03%	$67			($0)	$67
+Fidelity Small Cap Index	$230,195
+Assets in fund	0.03%/
+0.03%	$58			($0)	$58ESTIMATED
+ESTIMATED ESTIMATED
+GROSS
+GROSS/ PAYMENTS NET
+PAYMENTS
+BASIS FOR NET FROM IP PAYMENTS
+INVESTMENT TO IP 12B-1 ADMIN
+ESTIMATE EXPENSE
+[(12b1 X
+RATIO
+[estimate X net estimate)+ [gross pmts-
+expense ratio] (Admin X pmts from IP]
+estimate)]
+Fidelity US Bond Index $60,623 Assets 0.03%/ $15 ($0) $15
+in fund 0.03%
+Total for Fidelity $1,659,579 $323 ($0) $323
+Investments
+John Hancock
+JHancock Disciplined $50,451 Assets 0.75%/ $378 ($0) $378
+Value Mid Cap R6 in fund 0.75%
+Total for John Hancock $50,451 $378 ($0) $378
+MFS
+MFS Intl Diversification $100,574 0.73%/ $724 ($0) $724
+R6 Assets in fund 0.72%
+MFS Mid Cap Growth R6 $5,819 Assets 0.66%/ $38 ($0) $38
+in fund 0.65%
+Total for MFS $106,393 $762 ($0) $762
+PIMCO
+PIMCO Income Instl $37,187 Assets 0.51%/ $190 ($0) $190
+in fund 0.51%
+Total for PIMCO $37,187 $190 ($0) $190
+Principal Funds
+Principal SmallCap $102,650 0.86%/ $862 ($0) $862
+Growth I R6 Assets in fund 0.84%
+Total for Principal $102,650 $862 ($0) $862
+Funds
+Putnam
+Putnam Large Cap Value $24,564 Assets 0.33%/ $81 ($0) $81
+Trust IA in fund 0.33%
+Putnam Stable Value $203,803 0.26%/ $530 ($0) $530
+Fund Assets in fund 0.26%
+Total for Putnam $228,367 $611 ($0) $611
+Vanguard
+Vanguard Target $0 Assets in 0.08%/ $0 ($0) $0
+Retirement 2020 Inv fund 0.08%
+Vanguard Target $19,846 Assets 0.08%/ $16 ($0) $16
+Retirement 2025 Inv in fund 0.08%
+Vanguard Target $149,601 0.08%/ $120 ($0) $120
+Retirement 2030 Inv Assets in fund 0.08%
+Vanguard Target $76,578 Assets 0.08%/ $61 ($0) $61
+Retirement 2035 Inv in fund 0.08%
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 12 of 16INVESTMENT	BASIS FOR
+ESTIMATE	GROSS/
+NET
+EXPENSE
+RATIO	ESTIMATED
+GROSS
+PAYMENTS
+TO IP	12B-1	ADMIN	ESTIMATED
+PAYMENTS
+FROM IP	ESTIMATED
+NET
+PAYMENTS
+			[estimate X net
+expense ratio]			[(12b1 X
+estimate)+
+(Admin X
+estimate)]	[gross pmts-
+pmts from IP]
+Fidelity US Bond Index	$60,623 Assets
+in fund	0.03%/
+0.03%	$15			($0)	$15
+Total for Fidelity
+Investments	$1,659,579		$323			($0)	$323
+John Hancock							
+JHancock Disciplined
+Value Mid Cap R6	$50,451 Assets
+in fund	0.75%/
+0.75%	$378			($0)	$378
+Total for John Hancock	$50,451		$378			($0)	$378
+MFS							
+MFS Intl Diversification
+R6	$100,574
+Assets in fund	0.73%/
+0.72%	$724			($0)	$724
+MFS Mid Cap Growth R6	$5,819 Assets
+in fund	0.66%/
+0.65%	$38			($0)	$38
+Total for MFS	$106,393		$762			($0)	$762
+PIMCO							
+PIMCO Income Instl	$37,187 Assets
+in fund	0.51%/
+0.51%	$190			($0)	$190
+Total for PIMCO	$37,187		$190			($0)	$190
+Principal Funds							
+Principal SmallCap
+Growth I R6	$102,650
+Assets in fund	0.86%/
+0.84%	$862			($0)	$862
+Total for Principal
+Funds	$102,650		$862			($0)	$862
+Putnam							
+Putnam Large Cap Value
+Trust IA	$24,564 Assets
+in fund	0.33%/
+0.33%	$81			($0)	$81
+Putnam Stable Value
+Fund	$203,803
+Assets in fund	0.26%/
+0.26%	$530			($0)	$530
+Total for Putnam	$228,367		$611			($0)	$611
+Vanguard							
+Vanguard Target
+Retirement 2020 Inv	$0 Assets in
+fund	0.08%/
+0.08%	$0			($0)	$0
+Vanguard Target
+Retirement 2025 Inv	$19,846 Assets
+in fund	0.08%/
+0.08%	$16			($0)	$16
+Vanguard Target
+Retirement 2030 Inv	$149,601
+Assets in fund	0.08%/
+0.08%	$120			($0)	$120
+Vanguard Target
+Retirement 2035 Inv	$76,578 Assets
+in fund	0.08%/
+0.08%	$61			($0)	$61ESTIMATED
+ESTIMATED ESTIMATED
+GROSS
+GROSS/ PAYMENTS NET
+PAYMENTS
+BASIS FOR NET FROM IP PAYMENTS
+INVESTMENT TO IP 12B-1 ADMIN
+ESTIMATE EXPENSE
+[(12b1 X
+RATIO
+[estimate X net estimate)+ [gross pmts-
+expense ratio] (Admin X pmts from IP]
+estimate)]
+Vanguard Target $154,013 0.08%/ $123 ($0) $123
+Retirement 2040 Inv Assets in fund 0.08%
+Vanguard Target $811,283 0.08%/ $649 ($0) $649
+Retirement 2045 Inv Assets in fund 0.08%
+Vanguard Target $490,559 0.08%/ $392 ($0) $392
+Retirement 2050 Inv Assets in fund 0.08%
+Vanguard Target $58,779 Assets 0.08%/ $47 ($0) $47
+Retirement 2055 Inv in fund 0.08%
+Vanguard Target $202,882 0.08%/ $162 ($0) $162
+Retirement 2060 Inv Assets in fund 0.08%
+Vanguard Target $22,388 Assets 0.08%/ $18 ($0) $18
+Retirement 2065 Inv in fund 0.08%
+Vanguard Target $130,847 0.08%/ $105 ($0) $105
+Retirement Income Inv Assets in fund 0.08%
+Total for Vanguard $2,116,776 $1,693 ($0) $1,693
+Wilmington Trust, N.A
+AB US Large Cap Growth $5,078 Assets 0.35%/ $18 ($0) $18
+CIT W Sers L in fund 0.35%
+Total for Wilmington $5,078 $18 ($0) $18
+Trust, N.A
+Blank fields in the table above can be assumed to be not applicable or zero.
+Not all 12b-1 and/or Admin fees may flow through the Recordkeeper. A third party may be receiving the 12b-1
+and/or Admin fees directly. Due to this, the amount shown in the Estimated Net Payments column may be
+overstated.
+Empower may provide unit valuation and custody services for certain of the above investment options under an
+agreement with the plan sponsor. Any unit valuation and custody fees received by Empower are described in
+the plan's administrative services agreement but are not reflected in the Payments to Recordkeeper estimates
+in this document.
+Total Annual Payment Estimate to Investment Providers (IP) (Q)$5,399
+Payments to Recordkeeper (RK)
+Plan Services Fees
+SERVICE BASIS FOR GROSS
+FEE TYPE PAID BY ANNUAL FEE
+CODE ESTIMATE PAYMENTS
+2.1 Plan Administration Deducted from 0.73% $4,386,938 $32,025
+Asset Based Fee Participant Assets in Plan
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 13 of 16INVESTMENT	BASIS FOR
+ESTIMATE	GROSS/
+NET
+EXPENSE
+RATIO	ESTIMATED
+GROSS
+PAYMENTS
+TO IP	12B-1	ADMIN	ESTIMATED
+PAYMENTS
+FROM IP	ESTIMATED
+NET
+PAYMENTS
+			[estimate X net
+expense ratio]			[(12b1 X
+estimate)+
+(Admin X
+estimate)]	[gross pmts-
+pmts from IP]
+Vanguard Target
+Retirement 2040 Inv	$154,013
+Assets in fund	0.08%/
+0.08%	$123			($0)	$123
+Vanguard Target
+Retirement 2045 Inv	$811,283
+Assets in fund	0.08%/
+0.08%	$649			($0)	$649
+Vanguard Target
+Retirement 2050 Inv	$490,559
+Assets in fund	0.08%/
+0.08%	$392			($0)	$392
+Vanguard Target
+Retirement 2055 Inv	$58,779 Assets
+in fund	0.08%/
+0.08%	$47			($0)	$47
+Vanguard Target
+Retirement 2060 Inv	$202,882
+Assets in fund	0.08%/
+0.08%	$162			($0)	$162
+Vanguard Target
+Retirement 2065 Inv	$22,388 Assets
+in fund	0.08%/
+0.08%	$18			($0)	$18
+Vanguard Target
+Retirement Income Inv	$130,847
+Assets in fund	0.08%/
+0.08%	$105			($0)	$105
+Total for Vanguard	$2,116,776		$1,693			($0)	$1,693
+Wilmington Trust, N.A							
+AB US Large Cap Growth
+CIT W Sers L	$5,078 Assets
+in fund	0.35%/
+0.35%	$18			($0)	$18
+Total for Wilmington
+Trust, N.A	$5,078		$18			($0)	$18SERVICE
+CODE	FEE TYPE	PAID BY	ANNUAL FEE	BASIS FOR
+ESTIMATE	GROSS
+PAYMENTS
+2.1	Plan Administration
+Asset Based Fee	Deducted from
+Participant	0.73%	$4,386,938
+Assets in Plan	$32,025SERVICE BASIS FOR GROSS
+FEE TYPE PAID BY ANNUAL FEE
+CODE ESTIMATE PAYMENTS
+Investment Access Fee Billed to Plan $1,000 Flat Fee $1,000
+Sponsor
+Total Annual Payment Estimate for Plan Services (Y)$33,025
+Participant Services Fees
+SERVICE GROSS
+FEE TYPE PAID BY FEE
+CODE PAYMENTS
+2.2 Empower Advisory Services My Deducted from Up to $100K = 0.650000% $197
+Total Retirement Participant Next $150K = 0.550000%
+Next $150K = 0.450000%
+Over $400K = 0.350000%
+Participant Loan Maintenance Fee Deducted from $50 $13
+Participant
+Periodic Payment Maintenance Deducted from $25 $0
+Fee Participant
+Approval Fee‡ Netted from Participant $75 Per Distribution* $75
+Acct
+Benefit Disbursement Fee‡ Netted from $50 Per Distribution* $900
+Distribution
+Loan Origination Fee Deducted from Loan $75 Per Loan* $150
+Periodic Payment Origination Fee‡ Deducted from Initial $50 Per PPAY Set Up $0
+Payment
+Overnight/ACH/Wire requests may be subject to a fee of up to $40 per transaction.
+Total Annual Actual Payments for Participant Services (W)$1,335
+See the Administrative Service Agreement for the fees for any participant services not reflected above.
+Participant Service Fees displayed above are the actual assessed fees to date based on a rolling twelve month
+period.
+Listing of Available Additional Services
+SERVICE
+SERVICE
+CODE
+2.3 Qualified Domestic Relations Order Processing Services
+Representation During IRS/DOL Audit
+Consultation Related to Plan Mergers
+Data Entry Services
+Reconciliation of Loan Data
+Special Consulting Services
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 14 of 16SERVICE
+CODE	FEE TYPE	PAID BY	ANNUAL FEE	BASIS FOR
+ESTIMATE	GROSS
+PAYMENTS
+	Investment Access Fee	Billed to Plan
+Sponsor	$1,000	Flat Fee	$1,000SERVICE
+CODE	FEE TYPE	PAID BY	FEE	GROSS
+PAYMENTS
+2.2	Empower Advisory Services My
+Total Retirement	Deducted from
+Participant	Up to $100K = 0.650000%
+Next $150K = 0.550000%
+Next $150K = 0.450000%
+Over $400K = 0.350000%	$197
+	Participant Loan Maintenance Fee	Deducted from
+Participant	$50	$13
+	Periodic Payment Maintenance
+Fee	Deducted from
+Participant	$25	$0
+	Approval Fee‡	Netted from Participant
+Acct	$75 Per Distribution*	$75
+	Benefit Disbursement Fee‡	Netted from
+Distribution	$50 Per Distribution*	$900
+	Loan Origination Fee	Deducted from Loan	$75 Per Loan*	$150
+	Periodic Payment Origination Fee‡	Deducted from Initial
+Payment	$50 Per PPAY Set Up	$0SERVICE
+CODE	SERVICE
+2.3	Qualified Domestic Relations Order Processing Services
+	Representation During IRS/DOL Audit
+	Consultation Related to Plan Mergers
+	Data Entry Services
+	Reconciliation of Loan Data
+	Special Consulting ServicesSERVICE
+SERVICE
+CODE
+Additional Services Available to Plans Utilizing Empower Compliance Services
+2.3 Additional Compliance Testing for 401(a)(4) Non-discrimination
+Additional Compliance Testing for 401(k)/(m)
+Additional Compliance Testing for 410(b)
+Plan Document Amendments to Change Plan Year
+Conversion to Internal Compliance
+Employer Discretionary Contributions
+IRS Filing of Letter of Determination
+Other Compliance Testing and/or Corrective Calculations
+Plan Disaggregation
+Creation/Amendment - Prototype Plan Document
+Plan Termination Services
+Rights and Features Test
+Creation/Amendment - Volume Submitter Plan Document
+Plan level additional services listed may be requested by the Plan Sponsor in writing. The applicable fee will
+apply to any services performed based on that request.
+Additional Services
+Currently your plan has no Actual Additional Services payments.
+Total Annual Actual Payment for Additional Services $0
+Contract Termination Fee:
+Contract Termination Fees may apply. For more information, refer to your annuity contract and/or fee schedule.
+Payments to Others
+SERVICE SERVICE SERVICE BASIS FOR GROSS
+FEES
+CODE PROVIDER DESCRIPTION ESTIMATE PAYMENTS
+Trustee and Custodial Services
+3.1 Empower Trust Co. Trustee Services $750 Flat Fee $750
+Total $750
+Participant Advice
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 15 of 16SERVICE
+CODE	SERVICE
+Additional Services Available to Plans Utilizing Empower Compliance Services	
+2.3	Additional Compliance Testing for 401(a)(4) Non-discrimination
+	Additional Compliance Testing for 401(k)/(m)
+	Additional Compliance Testing for 410(b)
+	Plan Document Amendments to Change Plan Year
+	Conversion to Internal Compliance
+	Employer Discretionary Contributions
+	IRS Filing of Letter of Determination
+	Other Compliance Testing and/or Corrective Calculations
+	Plan Disaggregation
+	Creation/Amendment - Prototype Plan Document
+	Plan Termination Services
+	Rights and Features Test
+	Creation/Amendment - Volume Submitter Plan DocumentSERVICE
+CODE	SERVICE
+PROVIDER	SERVICE
+DESCRIPTION	FEES	BASIS FOR
+ESTIMATE	GROSS
+PAYMENTS
+Trustee and Custodial Services					
+3.1	Empower Trust Co.	Trustee Services	$750	Flat Fee	$750
+				Total	$750
+Participant Advice					SERVICE SERVICE SERVICE BASIS FOR GROSS
+FEES
+CODE PROVIDER DESCRIPTION ESTIMATE PAYMENTS
+3.2 Empower Advisory Empower Advisory Up to $100K = 0.650000% Actual Expenses $197
+Group, LLC Services My Total Next $150K = 0.550000%
+Retirement Next $150K = 0.450000%
+Over $400K = 0.350000%
+Total $197
+Total Annual Payment Estimate for Others (Z)$947
+Superscript letters in parentheses (x) denote the flow of fee totals throughout this document.
+* Participant loan set up and distribution fees may not reflect additional fees charged by a third party. Third
+parties should be disclosing the amounts they receive in a separate document.
+‡ Distribution Charge for participants may vary by the reason the distribution is taken and by fund. See your
+contract for details.
+Securities, when presented, are offered and/or distributed by Empower Financial Services, Inc., Member FINRA/SIPC. EFSI is an affiliate of Empower
+Retirement, LLC; Empower Funds, Inc.; and registered investment adviser Empower Advisory Group, LLC. This material is for informational purposes only and
+is not intended to provide investment, legal or tax recommendations or advice.
+DOC_TYPE: FEEDSC_STD 041322 401K GP19
+DOC ID: 745808765 EV ID:
+IND ID: Page 16 of 16SERVICE
+CODE	SERVICE
+PROVIDER	SERVICE
+DESCRIPTION	FEES	BASIS FOR
+ESTIMATE	GROSS
+PAYMENTS
+3.2	Empower Advisory
+Group, LLC	Empower Advisory
+Services My Total
+Retirement	Up to $100K = 0.650000%
+Next $150K = 0.550000%
+Next $150K = 0.450000%
+Over $400K = 0.350000%	Actual Expenses	$197
+				Total	$197

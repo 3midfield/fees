@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Drop</title>
+
+    <style>
+        .loader {
+            border: 16px solid #f3f3f3; /* Light grey */
+            border-top: 16px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 12.5px;
+            height: 12.5px;
+            animation: spin .5s linear infinite;
+            margin-top: 20px; /* Optional: Adds some spacing between the form and the spinner */
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+<form id="pdfForm" action="/upload" method="post" enctype="multipart/form-data">
+    <input type="file" id="pdfInput" name="file" accept=".pdf">
+    <input type="submit" value="Upload PDF">
+</form>
+
+<div class="loader"></div>
+
+<div id="message"></div>
+
+<script src="script.js"></script>
+</body>
+</html>

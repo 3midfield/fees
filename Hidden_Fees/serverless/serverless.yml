@@ -1,0 +1,39 @@
+service: ai-agent-fees
+
+provider:
+  name: aws
+  runtime: python3.10
+  stage: dev
+  region: us-east-1
+
+package:
+  individually: true
+  patterns:
+    - '!**'
+
+functions:
+  feesagent:
+    handler: fees_agent.parsing_pdf
+    timeout: 30
+    role: arn:aws:iam::343445026739:role/receive-from-sqs
+    package:
+      patterns:
+        fees_agent.py
+      
+# stepFunctions:
+#   stateMachines:
+#     feeStateMachine:
+#       definition:
+#         Comment: "A state machine that runs the fee calculations"
+#         StartAt: RunLambdaFunction
+#         States:
+#           RunLambdaFunction:
+#             Type: Task
+#             Resource: arn:aws:lambda:us-east-1:343445026739:function:ai-agent-fees-dev-feecalculations
+#             End: true
+
+plugins:
+  - serverless-offline
+  - serverless-step-functions
+  - serverless-s3-local
+  - serverless-python-requirements
